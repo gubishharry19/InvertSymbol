@@ -1,0 +1,15 @@
+C:\Users\ihorg\source\repos\InvertSymbolUaEng\InvertSymbolUaEng\obj\Debug\InvertSymbolUaEng.csprojResolveAssemblyReference.cache
+C:\Users\ihorg\source\repos\InvertSymbolUaEng\InvertSymbolUaEng\obj\Debug\MainWindow.g.cs
+C:\Users\ihorg\source\repos\InvertSymbolUaEng\InvertSymbolUaEng\obj\Debug\App.g.cs
+C:\Users\ihorg\source\repos\InvertSymbolUaEng\InvertSymbolUaEng\obj\Debug\InvertSymbolUaEng_MarkupCompile.cache
+C:\Users\ihorg\source\repos\InvertSymbolUaEng\InvertSymbolUaEng\obj\Debug\InvertSymbolUaEng_MarkupCompile.lref
+C:\Users\ihorg\source\repos\InvertSymbolUaEng\InvertSymbolUaEng\bin\Debug\InvertSymbolUaEng.exe.config
+C:\Users\ihorg\source\repos\InvertSymbolUaEng\InvertSymbolUaEng\bin\Debug\InvertSymbolUaEng.exe
+C:\Users\ihorg\source\repos\InvertSymbolUaEng\InvertSymbolUaEng\bin\Debug\InvertSymbolUaEng.pdb
+C:\Users\ihorg\source\repos\InvertSymbolUaEng\InvertSymbolUaEng\obj\Debug\MainWindow.baml
+C:\Users\ihorg\source\repos\InvertSymbolUaEng\InvertSymbolUaEng\obj\Debug\InvertSymbolUaEng.g.resources
+C:\Users\ihorg\source\repos\InvertSymbolUaEng\InvertSymbolUaEng\obj\Debug\InvertSymbolUaEng.Properties.Resources.resources
+C:\Users\ihorg\source\repos\InvertSymbolUaEng\InvertSymbolUaEng\obj\Debug\InvertSymbolUaEng.csproj.GenerateResource.Cache
+C:\Users\ihorg\source\repos\InvertSymbolUaEng\InvertSymbolUaEng\obj\Debug\InvertSymbolUaEng.csproj.CoreCompileInputs.cache
+C:\Users\ihorg\source\repos\InvertSymbolUaEng\InvertSymbolUaEng\obj\Debug\InvertSymbolUaEng.exe
+C:\Users\ihorg\source\repos\InvertSymbolUaEng\InvertSymbolUaEng\obj\Debug\InvertSymbolUaEng.pdb

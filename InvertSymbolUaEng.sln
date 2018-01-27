@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvertSymbolUaEng", "InvertSymbolUaEng\InvertSymbolUaEng.csproj", "{2C75E8EF-9D44-47E1-B6A6-7BF521F27E7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C75E8EF-9D44-47E1-B6A6-7BF521F27E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C75E8EF-9D44-47E1-B6A6-7BF521F27E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C75E8EF-9D44-47E1-B6A6-7BF521F27E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C75E8EF-9D44-47E1-B6A6-7BF521F27E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFC0DC92-EB94-46C0-86FE-6FE171F960A8}
+	EndGlobalSection
+EndGlobal
